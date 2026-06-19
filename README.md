@@ -33,6 +33,5 @@ Run all cells in order
 
 Results
 
-Split    ~ Accuracy
-Training ~ 83%
-Test     ~ 76%
+Training ~ 83% accuracy
+Test     ~ 76% accuracy
